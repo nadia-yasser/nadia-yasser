@@ -44,7 +44,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  
+  ![snake gif](https://github.com/nadia-yasser/nadia-yasser/blob/output/github-contribution-grid-snake-dark.svg)
   <br/>
 </div>
 
